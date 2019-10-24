@@ -1,0 +1,2 @@
+# iSign
+My idea is about an app that will will “translate” sign language into text or voice.  This will let easy the communication between people who can’t speak and those who do. Imagine if you want to talk to someone who can’t speak or they want to communicate with u or send a message or command to Google assistant they can sign and the assistant will run the command that u have signed to your phone or Google home. 
